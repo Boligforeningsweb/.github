@@ -1,4 +1,6 @@
-# 🐢 Langsom
+# 🐢 Langsom.com
+
+## Note: This repo is primarily used for internal projects for Langsom.com as it carries the old repo-name (boligforeningsweb). Please go to [the new Langsom.com GitHub repo to make sure you check all projects](https://github.com/Langsom-com)
 
 **[Langsom.com](https://langsom.com)** is a family of calm, focused software products — each built with simplicity, transparency, and long-term thinking in mind.  
 We believe that good software should get out of the way, stay fast, and do exactly what it promises — nothing more, nothing less.
